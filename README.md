@@ -1,0 +1,2 @@
+# exercicio-python
+ primeiro exercicio
