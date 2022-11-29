@@ -1,0 +1,12 @@
+print ("olá mundo")
+nome = input("DIGITE SEU NOME: ")
+idade = input("DIGITE SUA IDADE: ")
+altura = float(input("digite sua altura: "))
+peso = float(input("digite seu peso: "))
+
+print("-" * 30)
+print("Este são meus dados: ")
+print("nome: ",nome)
+print("Idade: ",idade,"anos")
+print("altura",altura,"mts")
+print("peso",peso,"Kgs")
